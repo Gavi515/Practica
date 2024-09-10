@@ -9,4 +9,5 @@ while (i<=valor){
     
     i++;
 }
-console.log("Con WHILE: " + numeros);
+//console.log("Con WHILE: " , numeros);
+console.log(`Con WHILE ${numeros}`)
